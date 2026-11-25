@@ -456,3 +456,6 @@ TraceForge v2 is intended for legitimate digital forensics, incident response wo
 <br><br>
 <b>github.com/theconsoler/TRACEFORGE-V2</b>
 </div>
+
+## Attribution
+ForensicLens is based on TraceForge V2 (https://github.com/theconsoler/TRACEFORGE-V2), licensed under the MIT License.
